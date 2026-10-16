@@ -1,0 +1,7 @@
+,N,Mean,SD,Min,Median,Max
+enforcement_tier,27.0,1.7,0.91,0.0,2.0,3.0
+gov_effectiveness,27.0,1.09,0.54,0.04,1.11,2.04
+cyber_gov_maturity,27.0,0.96,0.81,0.0,1.0,2.0
+dedicated_cyber_agency,27.0,0.48,0.51,0.0,0.0,1.0
+gdp_per_capita_ppp,27.0,68288.74,27803.55,44451.1,60487.29,156542.08
+population,27.0,16680770.37,22412691.57,574300.0,9197200.0,83577100.0

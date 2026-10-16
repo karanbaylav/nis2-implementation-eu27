@@ -1,0 +1,6 @@
+Specification,gov_eff coef/HR,p,cyber_gov_maturity coef/HR,p 
+Baseline ordered logit,1.317,0.258,-0.165,0.749
+Ordered probit,~similar sign/mag.,>0.10,~similar sign/mag.,>0.10
+dedicated_cyber_agency alone,n/a,n/a,-0.862,0.29
++ log(population),1.15,>0.10,~similar,>0.10
+Cox PH (time_since_directive_days),0.606,0.471,1.593,0.121

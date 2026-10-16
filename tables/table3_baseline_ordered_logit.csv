@@ -1,0 +1,4 @@
+Variable,Coefficient,Std. Error,p-value,CI Low,CI High,Odds Ratio
+gov_effectiveness,1.317,1.164,0.258,-0.965,3.599,3.732
+cyber_gov_maturity,-0.165,0.514,0.749,-1.173,0.844,0.848
+log_gdp,0.633,1.992,0.751,-3.271,4.536,1.883
